@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Local database
+postcare.db
+
+# Python files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Notebooks and secrets
+.ipynb_checkpoints/
+.env
+
+# Large raw data (describe where to download it in docs/DATASETS.md)
+data/raw/
