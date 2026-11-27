@@ -1,0 +1,141 @@
+patient_id,diagnosis_group,day_number,checkin_date,pain_score_0_10,temperature_c,feeling_feverish,symptoms_reported,medicines_taken_today,rehabilitation_or_activity_done,free_text_note,data_type,clinical_status
+SIM-001,Community-acquired pneumonia,1,2026-11-16,2,36.8,False,,True,True,,synthetic_simulation,not_assessed
+SIM-001,Community-acquired pneumonia,2,2026-11-17,3,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-001,Community-acquired pneumonia,3,2026-11-18,3,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-001,Community-acquired pneumonia,4,2026-11-19,3,36.7,False,,True,False,,synthetic_simulation,not_assessed
+SIM-001,Community-acquired pneumonia,5,2026-11-20,2,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-001,Community-acquired pneumonia,6,2026-11-21,1,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-001,Community-acquired pneumonia,7,2026-11-22,3,36.6,False,worsening cough,True,True,Cough feels worse today.,synthetic_simulation,not_assessed
+SIM-001,Community-acquired pneumonia,8,2026-11-23,2,,False,,True,False,,synthetic_simulation,not_assessed
+SIM-001,Community-acquired pneumonia,9,2026-11-24,0,36.8,False,,True,True,,synthetic_simulation,not_assessed
+SIM-001,Community-acquired pneumonia,10,2026-11-25,2,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-001,Community-acquired pneumonia,11,2026-11-26,0,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-001,Community-acquired pneumonia,12,2026-11-27,2,36.8,False,,True,False,,synthetic_simulation,not_assessed
+SIM-001,Community-acquired pneumonia,13,2026-11-28,0,36.7,False,,True,True,,synthetic_simulation,not_assessed
+SIM-001,Community-acquired pneumonia,14,2026-11-29,0,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-002,Acute exacerbation of COPD,1,2026-11-16,3,36.7,False,,True,True,,synthetic_simulation,not_assessed
+SIM-002,Acute exacerbation of COPD,2,2026-11-17,4,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-002,Acute exacerbation of COPD,3,2026-11-18,4,36.7,False,,True,True,,synthetic_simulation,not_assessed
+SIM-002,Acute exacerbation of COPD,4,2026-11-19,4,36.6,False,,True,False,,synthetic_simulation,not_assessed
+SIM-002,Acute exacerbation of COPD,5,2026-11-20,3,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-002,Acute exacerbation of COPD,6,2026-11-21,3,36.7,False,increased breathlessness,True,True,Reports more breathlessness than previous days.,synthetic_simulation,not_assessed
+SIM-002,Acute exacerbation of COPD,7,2026-11-22,3,36.6,False,increased breathlessness,True,True,Reports more breathlessness than previous days.,synthetic_simulation,not_assessed
+SIM-002,Acute exacerbation of COPD,8,2026-11-23,2,,False,increased breathlessness,True,False,Reports more breathlessness than previous days.,synthetic_simulation,not_assessed
+SIM-002,Acute exacerbation of COPD,9,2026-11-24,1,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-002,Acute exacerbation of COPD,10,2026-11-25,2,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-002,Acute exacerbation of COPD,11,2026-11-26,3,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-002,Acute exacerbation of COPD,12,2026-11-27,1,36.6,False,,True,False,,synthetic_simulation,not_assessed
+SIM-002,Acute exacerbation of COPD,13,2026-11-28,0,36.8,False,,True,True,,synthetic_simulation,not_assessed
+SIM-002,Acute exacerbation of COPD,14,2026-11-29,0,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-003,Acute appendicitis,1,2026-11-16,3,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-003,Acute appendicitis,2,2026-11-17,3,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-003,Acute appendicitis,3,2026-11-18,3,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-003,Acute appendicitis,4,2026-11-19,2,36.6,False,,True,False,,synthetic_simulation,not_assessed
+SIM-003,Acute appendicitis,5,2026-11-20,2,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-003,Acute appendicitis,6,2026-11-21,3,36.8,False,,True,True,,synthetic_simulation,not_assessed
+SIM-003,Acute appendicitis,7,2026-11-22,3,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-003,Acute appendicitis,8,2026-11-23,2,,False,,True,False,,synthetic_simulation,not_assessed
+SIM-003,Acute appendicitis,9,2026-11-24,1,38.2,True,wound redness,True,True,Reports wound redness and elevated temperature.,synthetic_simulation,not_assessed
+SIM-003,Acute appendicitis,10,2026-11-25,0,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-003,Acute appendicitis,11,2026-11-26,1,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-003,Acute appendicitis,12,2026-11-27,1,36.6,False,,True,False,,synthetic_simulation,not_assessed
+SIM-003,Acute appendicitis,13,2026-11-28,0,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-003,Acute appendicitis,14,2026-11-29,0,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-004,Cellulitis of lower leg,1,2026-11-16,5,36.8,False,,True,True,,synthetic_simulation,not_assessed
+SIM-004,Cellulitis of lower leg,2,2026-11-17,4,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-004,Cellulitis of lower leg,3,2026-11-18,6,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-004,Cellulitis of lower leg,4,2026-11-19,4,36.7,False,,True,False,,synthetic_simulation,not_assessed
+SIM-004,Cellulitis of lower leg,5,2026-11-20,3,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-004,Cellulitis of lower leg,6,2026-11-21,4,36.8,False,,True,True,,synthetic_simulation,not_assessed
+SIM-004,Cellulitis of lower leg,7,2026-11-22,4,36.7,False,,True,True,,synthetic_simulation,not_assessed
+SIM-004,Cellulitis of lower leg,8,2026-11-23,5,,False,,True,False,,synthetic_simulation,not_assessed
+SIM-004,Cellulitis of lower leg,9,2026-11-24,2,36.8,False,,True,True,,synthetic_simulation,not_assessed
+SIM-004,Cellulitis of lower leg,10,2026-11-25,3,36.7,False,increasing leg redness,True,True,Redness appears to be spreading.,synthetic_simulation,not_assessed
+SIM-004,Cellulitis of lower leg,11,2026-11-26,2,,False,increasing leg redness,True,True,Redness appears to be spreading.,synthetic_simulation,not_assessed
+SIM-004,Cellulitis of lower leg,12,2026-11-27,2,36.6,False,,True,False,,synthetic_simulation,not_assessed
+SIM-004,Cellulitis of lower leg,13,2026-11-28,2,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-004,Cellulitis of lower leg,14,2026-11-29,2,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-005,Acute pyelonephritis,1,2026-11-16,5,36.7,False,,True,True,,synthetic_simulation,not_assessed
+SIM-005,Acute pyelonephritis,2,2026-11-17,5,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-005,Acute pyelonephritis,3,2026-11-18,5,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-005,Acute pyelonephritis,4,2026-11-19,5,36.6,False,,True,False,,synthetic_simulation,not_assessed
+SIM-005,Acute pyelonephritis,5,2026-11-20,2,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-005,Acute pyelonephritis,6,2026-11-21,3,36.8,False,,True,True,,synthetic_simulation,not_assessed
+SIM-005,Acute pyelonephritis,7,2026-11-22,3,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-005,Acute pyelonephritis,8,2026-11-23,3,,False,,False,False,Missed today's scheduled medicine.,synthetic_simulation,not_assessed
+SIM-005,Acute pyelonephritis,9,2026-11-24,3,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-005,Acute pyelonephritis,10,2026-11-25,1,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-005,Acute pyelonephritis,11,2026-11-26,1,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-005,Acute pyelonephritis,12,2026-11-27,2,36.8,False,,True,False,,synthetic_simulation,not_assessed
+SIM-005,Acute pyelonephritis,13,2026-11-28,1,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-005,Acute pyelonephritis,14,2026-11-29,0,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-006,Heart failure exacerbation,1,2026-11-16,5,36.7,False,,True,True,,synthetic_simulation,not_assessed
+SIM-006,Heart failure exacerbation,2,2026-11-17,5,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-006,Heart failure exacerbation,3,2026-11-18,6,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-006,Heart failure exacerbation,4,2026-11-19,5,36.8,False,,True,False,,synthetic_simulation,not_assessed
+SIM-006,Heart failure exacerbation,5,2026-11-20,3,,False,increasing ankle swelling,True,True,Reports more ankle swelling.,synthetic_simulation,not_assessed
+SIM-006,Heart failure exacerbation,6,2026-11-21,4,36.6,False,increasing ankle swelling,True,True,Reports more ankle swelling.,synthetic_simulation,not_assessed
+SIM-006,Heart failure exacerbation,7,2026-11-22,3,36.6,False,increasing ankle swelling,True,True,Reports more ankle swelling.,synthetic_simulation,not_assessed
+SIM-006,Heart failure exacerbation,8,2026-11-23,4,,False,,True,False,,synthetic_simulation,not_assessed
+SIM-006,Heart failure exacerbation,9,2026-11-24,2,36.8,False,,True,True,,synthetic_simulation,not_assessed
+SIM-006,Heart failure exacerbation,10,2026-11-25,2,36.7,False,,True,True,,synthetic_simulation,not_assessed
+SIM-006,Heart failure exacerbation,11,2026-11-26,4,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-006,Heart failure exacerbation,12,2026-11-27,3,36.6,False,,True,False,,synthetic_simulation,not_assessed
+SIM-006,Heart failure exacerbation,13,2026-11-28,2,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-006,Heart failure exacerbation,14,2026-11-29,1,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-007,Transient ischaemic attack,1,2026-11-16,1,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-007,Transient ischaemic attack,2,2026-11-17,3,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-007,Transient ischaemic attack,3,2026-11-18,3,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-007,Transient ischaemic attack,4,2026-11-19,3,36.7,False,,True,False,,synthetic_simulation,not_assessed
+SIM-007,Transient ischaemic attack,5,2026-11-20,2,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-007,Transient ischaemic attack,6,2026-11-21,1,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-007,Transient ischaemic attack,7,2026-11-22,2,36.7,False,,True,True,,synthetic_simulation,not_assessed
+SIM-007,Transient ischaemic attack,8,2026-11-23,0,,False,,True,False,,synthetic_simulation,not_assessed
+SIM-007,Transient ischaemic attack,9,2026-11-24,0,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-007,Transient ischaemic attack,10,2026-11-25,0,36.7,False,,True,True,,synthetic_simulation,not_assessed
+SIM-007,Transient ischaemic attack,11,2026-11-26,0,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-007,Transient ischaemic attack,12,2026-11-27,0,36.6,False,new arm weakness,True,False,Reports a new neurological symptom.,synthetic_simulation,not_assessed
+SIM-007,Transient ischaemic attack,13,2026-11-28,0,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-007,Transient ischaemic attack,14,2026-11-29,0,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-008,Dehydration with gastroenteritis,1,2026-11-16,5,36.7,False,,True,True,,synthetic_simulation,not_assessed
+SIM-008,Dehydration with gastroenteritis,2,2026-11-17,4,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-008,Dehydration with gastroenteritis,3,2026-11-18,4,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-008,Dehydration with gastroenteritis,4,2026-11-19,3,36.6,False,vomiting,True,False,Reports difficulty keeping fluids down.,synthetic_simulation,not_assessed
+SIM-008,Dehydration with gastroenteritis,5,2026-11-20,2,,False,vomiting,True,True,Reports difficulty keeping fluids down.,synthetic_simulation,not_assessed
+SIM-008,Dehydration with gastroenteritis,6,2026-11-21,3,36.7,False,,True,True,,synthetic_simulation,not_assessed
+SIM-008,Dehydration with gastroenteritis,7,2026-11-22,2,36.8,False,,True,True,,synthetic_simulation,not_assessed
+SIM-008,Dehydration with gastroenteritis,8,2026-11-23,4,,False,,True,False,,synthetic_simulation,not_assessed
+SIM-008,Dehydration with gastroenteritis,9,2026-11-24,3,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-008,Dehydration with gastroenteritis,10,2026-11-25,2,36.7,False,,True,True,,synthetic_simulation,not_assessed
+SIM-008,Dehydration with gastroenteritis,11,2026-11-26,2,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-008,Dehydration with gastroenteritis,12,2026-11-27,1,36.6,False,,True,False,,synthetic_simulation,not_assessed
+SIM-008,Dehydration with gastroenteritis,13,2026-11-28,1,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-008,Dehydration with gastroenteritis,14,2026-11-29,1,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-009,Acute cholecystitis,1,2026-11-16,2,36.8,False,,True,True,,synthetic_simulation,not_assessed
+SIM-009,Acute cholecystitis,2,2026-11-17,3,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-009,Acute cholecystitis,3,2026-11-18,2,36.8,False,,True,True,,synthetic_simulation,not_assessed
+SIM-009,Acute cholecystitis,4,2026-11-19,3,36.6,False,,True,False,,synthetic_simulation,not_assessed
+SIM-009,Acute cholecystitis,5,2026-11-20,2,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-009,Acute cholecystitis,6,2026-11-21,2,36.7,False,,True,True,,synthetic_simulation,not_assessed
+SIM-009,Acute cholecystitis,7,2026-11-22,1,36.8,False,,True,True,,synthetic_simulation,not_assessed
+SIM-009,Acute cholecystitis,8,2026-11-23,2,,False,,True,False,,synthetic_simulation,not_assessed
+SIM-009,Acute cholecystitis,9,2026-11-24,1,36.7,False,,True,True,,synthetic_simulation,not_assessed
+SIM-009,Acute cholecystitis,10,2026-11-25,2,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-009,Acute cholecystitis,11,2026-11-26,1,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-009,Acute cholecystitis,12,2026-11-27,1,36.6,False,,True,False,,synthetic_simulation,not_assessed
+SIM-009,Acute cholecystitis,13,2026-11-28,0,36.7,False,,True,True,,synthetic_simulation,not_assessed
+SIM-009,Acute cholecystitis,14,2026-11-29,0,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-010,Acute asthma exacerbation,1,2026-11-16,5,36.7,False,,True,True,,synthetic_simulation,not_assessed
+SIM-010,Acute asthma exacerbation,2,2026-11-17,5,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-010,Acute asthma exacerbation,3,2026-11-18,4,36.8,False,,True,True,,synthetic_simulation,not_assessed
+SIM-010,Acute asthma exacerbation,4,2026-11-19,3,36.6,False,,True,False,,synthetic_simulation,not_assessed
+SIM-010,Acute asthma exacerbation,5,2026-11-20,2,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-010,Acute asthma exacerbation,6,2026-11-21,4,36.8,False,,True,True,,synthetic_simulation,not_assessed
+SIM-010,Acute asthma exacerbation,7,2026-11-22,2,36.6,False,wheezing,True,True,Reports wheezing.,synthetic_simulation,not_assessed
+SIM-010,Acute asthma exacerbation,8,2026-11-23,3,,False,wheezing,True,False,Reports wheezing.,synthetic_simulation,not_assessed
+SIM-010,Acute asthma exacerbation,9,2026-11-24,1,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-010,Acute asthma exacerbation,10,2026-11-25,3,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-010,Acute asthma exacerbation,11,2026-11-26,3,,False,,True,True,,synthetic_simulation,not_assessed
+SIM-010,Acute asthma exacerbation,12,2026-11-27,2,36.8,False,,True,False,,synthetic_simulation,not_assessed
+SIM-010,Acute asthma exacerbation,13,2026-11-28,1,36.6,False,,True,True,,synthetic_simulation,not_assessed
+SIM-010,Acute asthma exacerbation,14,2026-11-29,0,,False,,True,True,,synthetic_simulation,not_assessed
