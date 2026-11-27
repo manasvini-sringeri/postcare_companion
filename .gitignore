@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model outputs - large files
+models/saved/*.pkl
+models/saved/*.joblib
+models/saved/*.pt
+models/saved/*.pth
+
+# Temporary files
+*.tmp
+*.log
+
+# Generated caches
+.cache/
